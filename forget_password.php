@@ -33,7 +33,7 @@ include('include/header.php');
 					<div class="form-group">
 						<div class="col-md-12 control">
 							<div style="border-top: 1px solid#888; padding-top:15px; font-size:85%" >
-								If You've already an account! 
+								If You've already an account Click Here! 
 							<a href="login.php">
 								Log In 
 							</a>Here
