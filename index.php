@@ -4,7 +4,7 @@ $user = new User();
 $user->loginStatus();
 include('include/header.php');
 ?>
-<title>User Management System</title>
+<title>UserManagementSystem</title>
 <?php include('include/container.php');?>
 <div class="container contact">	
 	<h2>User Management System</h2>	
